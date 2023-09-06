@@ -10,3 +10,8 @@ Projeto criado para o Santander Bootcamp 2023 (Em parceria com a DIO) - Ciência
 
 
 Feito no Google Colaboratory com a instrução do professor @falvojr
+
+#
+
+
+Link: https://colab.research.google.com/drive/1WHVpHH567L8RuKHOcpt1HKo3njrVaLmW#scrollTo=BPJQsTCULaC-
